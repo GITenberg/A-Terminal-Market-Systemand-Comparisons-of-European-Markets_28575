@@ -1,0 +1,28 @@
+_repo: A-Terminal-Market-Systemand-Comparisons-of-European-Markets_28575
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Black, Madeleine
+    alias: Black, Mrs. Elmer
+    gutenberg_agent_id: '33424'
+    url: http://www.gutenberg.org/2009/agents/33424
+description: ''
+gutenberg_issued: '2009-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28575'
+  lccn: '13002037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Markets'
+- !lcsh 'Markets -- New York (State) -- New York'
+title: "A Terminal Market System: New York's Most Urgent Need\r\nSome Observations,\
+  \ Comments, and Comparisons of European Markets"
+url: http://www.gutenberg.org/ebooks/28575
